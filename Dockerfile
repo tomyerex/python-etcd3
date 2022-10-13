@@ -1,4 +1,4 @@
-FROM python:3.5
+FROM python:3.7.14
 
 ARG HTTP_PROXY
 ARG http_proxy
